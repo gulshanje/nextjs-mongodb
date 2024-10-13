@@ -7,7 +7,6 @@ export default function TopNav() {
             ⏩ Nextjs-Mongo
             </Link>
             <div className='d-flex'>
-               
                 
                 <Link href="/login" className='nav-link'>
                     Login
@@ -20,11 +19,6 @@ export default function TopNav() {
                 <Link href="/logout" className='nav-link'>
                     Logout
                 </Link>
-                
-               
-                
-                
-
             </div>
           
         </nav>
